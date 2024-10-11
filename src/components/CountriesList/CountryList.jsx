@@ -1,7 +1,9 @@
+import { useCities } from "../../Context/CitiesContext";
 import CountryItem from "../CountryItem/CountryItem";
 import styles from "./CountryList.module.css";
 
-function CountryList({ cities }) {
+function CountryList() {
+  const { cities } = useCities();
   // const countries = [...new Set(cities.map((city) => city.country))];
 
   const countries = cities.reduce((arr, city) => {
