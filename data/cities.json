@@ -35,6 +35,114 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Cornwall",
+      "country": "",
+      "date": "2024-10-15T02:07:35.329Z",
+      "emoji": "🇨🇦",
+      "notes": "good good city",
+      "position": {
+        "lat": "45.01821432797107",
+        "lng": "-74.73861694335939"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Cornwall",
+      "country": "",
+      "date": "2024-10-15T02:09:14.929Z",
+      "emoji": "🇨🇦",
+      "notes": "",
+      "position": {
+        "lat": "45.01821432797107",
+        "lng": "-74.73861694335939"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Alougoum",
+      "country": "",
+      "date": "2024-10-15T02:14:45.491Z",
+      "emoji": "🇲🇦",
+      "notes": "have no idea where this city is",
+      "position": {
+        "lat": "30.259067203213018",
+        "lng": "-6.613769531250001"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Oum El Assel",
+      "country": "",
+      "date": "2024-10-15T02:18:43.888Z",
+      "emoji": "🇩🇿",
+      "notes": "godies",
+      "position": {
+        "lat": "28.786918085420226",
+        "lng": "-7.097167968750001"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Tindouf",
+      "country": "",
+      "date": "2024-10-15T02:18:43.888Z",
+      "emoji": "🇩🇿",
+      "notes": "godies",
+      "position": {
+        "lat": "26.49024045886963",
+        "lng": "-6.789550781250001"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Tolga",
+      "country": "",
+      "date": "2024-10-15T02:18:43.888Z",
+      "emoji": "🇩🇿",
+      "notes": "godies",
+      "position": {
+        "lat": "34.84987503195418",
+        "lng": "5.185546875000001"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Khenchela",
+      "country": "",
+      "date": "2024-10-15T02:22:04.681Z",
+      "emoji": "🇩🇿",
+      "notes": "",
+      "position": {
+        "lat": "35.43381992014202",
+        "lng": "7.108154296875001"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Tajerouine",
+      "country": "",
+      "date": "2024-10-15T02:24:11.913Z",
+      "emoji": "🇹🇳",
+      "notes": "GOODNESS GRACIOUS",
+      "position": {
+        "lat": "35.94243575255426",
+        "lng": "8.673706054687502"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Tajerouine",
+      "country": "",
+      "date": "2024-10-15T02:26:13.350Z",
+      "emoji": "🇹🇳",
+      "notes": "",
+      "position": {
+        "lat": "35.93520855188002",
+        "lng": "8.659458160400392"
+      },
+      "id": 98443206
     }
   ]
 }
