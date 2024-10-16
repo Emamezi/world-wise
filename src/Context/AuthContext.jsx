@@ -29,8 +29,8 @@ function AuthProvider({ children }) {
   );
 
   function logIn(email, password) {
-    if (email === FAKE_USER.email && password === FAKE_USER.password) return;
-    dispatch({ type: "user/login", payload: FAKE_USER });
+    if (email === FAKE_USER.email && password === FAKE_USER.password)
+      dispatch({ type: "user/login", payload: FAKE_USER });
   }
   function logOut() {
     dispatch({ type: "user/logout" });
