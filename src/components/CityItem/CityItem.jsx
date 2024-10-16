@@ -11,7 +11,6 @@ function CityItem({ city }) {
       day: "numeric",
       month: "long",
       year: "numeric",
-      // weekday: "long",
     }).format(new Date(date));
 
   function handleDelete(e) {
@@ -30,7 +29,6 @@ function CityItem({ city }) {
         <h3 className={styles.name}>{cityName}</h3>
         <time className={styles.date}> {formatDate(date)}</time>
         <button className={styles.deleteBtn} onClick={handleDelete}>
-          {" "}
           &times;
         </button>
       </Link>
